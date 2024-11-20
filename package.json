@@ -1,0 +1,22 @@
+{
+  "name": "cannon-test",
+  "version": "1.0.0",
+  "description": "Node.js 언어 기반으로 물리 엔진 기능을 제공해주는 Cannon 라이브러리를 학습해본다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cannon-es": "^0.20.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "path-browserify": "^1.0.1",
+    "process": "^0.11.10",
+    "url": "^0.11.4"
+  }
+}
